@@ -1,0 +1,10 @@
+
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/pycoreutil.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/vcs.xml
+/build
+/dist
+
+pycoreutil.egg-info/SOURCES.txt
